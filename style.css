@@ -52,21 +52,7 @@ height:24px;
 float:right;
 padding:45px 0 0 0;
 }
-#menu ul{
-list-style:none;padding:0px;margin:0px;display:block; font-weight:bold;
-}
-#menu ul li.divider{
-height:24px;width:19px;background:url(images/menu_divider.gif) no-repeat center; float:left; display:block; padding:8px 0 0 0;
-}
-#menu ul li{
-list-style:none;display:inline;float:left;width:auto;height:24px;padding:0px;line-height:32px; font-family:Arial, Helvetica, sans-serif; font-size:14px;
-}
-#menu ul li a{
-height:24px; width: auto;float:left;text-decoration:none;padding:0 8px 0 8px; margin:0px;color:#9d8f9b;text-align:center;
-}
-#menu ul li a:hover{
-height:24px;width: auto;text-decoration:none;color: #857283;
-}
+
 #menu ul li a.current{
 height:24px;width: auto;float:left;text-decoration:none;padding:0 8px 0 8px;color: #857283;
 }
@@ -76,7 +62,7 @@ width:894px;
 height:278px;
 clear:both;
 margin:auto;
-background:url(images/middle_banner.gif) no-repeat center;
+background:url(https://raw.githubusercontent.com/Heimry/Site/master/middle_banner.gif) no-repeat center;
 }
 .title{
 height:26px;
